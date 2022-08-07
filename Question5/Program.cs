@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Numerics;
-namespace Primes
+namespace NoRemainder
 {
-    class Question3
+    class Question5
     {
        static void Main()
        {
