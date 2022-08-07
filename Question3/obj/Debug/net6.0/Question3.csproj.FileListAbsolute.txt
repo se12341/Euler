@@ -1,0 +1,15 @@
+D:\ProgramData\Euler\Question3\bin\Debug\net6.0\Question3.exe
+D:\ProgramData\Euler\Question3\bin\Debug\net6.0\Question3.deps.json
+D:\ProgramData\Euler\Question3\bin\Debug\net6.0\Question3.runtimeconfig.json
+D:\ProgramData\Euler\Question3\bin\Debug\net6.0\Question3.dll
+D:\ProgramData\Euler\Question3\bin\Debug\net6.0\Question3.pdb
+D:\ProgramData\Euler\Question3\obj\Debug\net6.0\Question3.csproj.AssemblyReference.cache
+D:\ProgramData\Euler\Question3\obj\Debug\net6.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramData\Euler\Question3\obj\Debug\net6.0\Question3.AssemblyInfoInputs.cache
+D:\ProgramData\Euler\Question3\obj\Debug\net6.0\Question3.AssemblyInfo.cs
+D:\ProgramData\Euler\Question3\obj\Debug\net6.0\Question3.csproj.CoreCompileInputs.cache
+D:\ProgramData\Euler\Question3\obj\Debug\net6.0\Question3.dll
+D:\ProgramData\Euler\Question3\obj\Debug\net6.0\refint\Question3.dll
+D:\ProgramData\Euler\Question3\obj\Debug\net6.0\Question3.pdb
+D:\ProgramData\Euler\Question3\obj\Debug\net6.0\Question3.genruntimeconfig.cache
+D:\ProgramData\Euler\Question3\obj\Debug\net6.0\ref\Question3.dll
