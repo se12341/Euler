@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Numerics;
-namespace Primes
+namespace SqrAndSum
 {
-    class Question3
+    class Question6
     {
        static void Main()
        {
