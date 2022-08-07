@@ -6,7 +6,7 @@ namespace Primes
     {
        static void Main()
        {
-        
+        Console.Write("Hello World!");
        }
     }
 }
