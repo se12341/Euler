@@ -1,0 +1,15 @@
+D:\ProgramData\Euler\Question1\bin\Debug\net6.0\Question1.exe
+D:\ProgramData\Euler\Question1\bin\Debug\net6.0\Question1.deps.json
+D:\ProgramData\Euler\Question1\bin\Debug\net6.0\Question1.runtimeconfig.json
+D:\ProgramData\Euler\Question1\bin\Debug\net6.0\Question1.dll
+D:\ProgramData\Euler\Question1\bin\Debug\net6.0\Question1.pdb
+D:\ProgramData\Euler\Question1\obj\Debug\net6.0\Question1.csproj.AssemblyReference.cache
+D:\ProgramData\Euler\Question1\obj\Debug\net6.0\Question1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramData\Euler\Question1\obj\Debug\net6.0\Question1.AssemblyInfoInputs.cache
+D:\ProgramData\Euler\Question1\obj\Debug\net6.0\Question1.AssemblyInfo.cs
+D:\ProgramData\Euler\Question1\obj\Debug\net6.0\Question1.csproj.CoreCompileInputs.cache
+D:\ProgramData\Euler\Question1\obj\Debug\net6.0\Question1.dll
+D:\ProgramData\Euler\Question1\obj\Debug\net6.0\refint\Question1.dll
+D:\ProgramData\Euler\Question1\obj\Debug\net6.0\Question1.pdb
+D:\ProgramData\Euler\Question1\obj\Debug\net6.0\Question1.genruntimeconfig.cache
+D:\ProgramData\Euler\Question1\obj\Debug\net6.0\ref\Question1.dll
