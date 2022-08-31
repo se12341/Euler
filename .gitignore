@@ -462,3 +462,6 @@ QuestionX - master (copy and paste)/.vscode/launch.json
 QuestionX - master (copy and paste)/.vscode/tasks.json
 Question4/obj/Debug/net6.0/Question4.assets.cache
 Question4/obj/Debug/net6.0/Question4.GeneratedMSBuildEditorConfig.editorconfig
+
+README.md
+.vscode
